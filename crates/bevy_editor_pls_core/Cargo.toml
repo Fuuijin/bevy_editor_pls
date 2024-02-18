@@ -9,7 +9,6 @@ readme.workspace = true
 
 [dependencies]
 bevy = { version = "0.13", default-features = false }
-bevy-inspector-egui.workspace = true
 bevy-inspector-egui = "0.22.1"
 indexmap = "2"
 egui_dock.workspace = true
